@@ -1,0 +1,18 @@
+{
+	"nativescript-ui-dataform": {
+		"C:\\workspace\\nativescript\\lazy\\node_modules\\nativescript-ui-dataform\\platforms\\android\\typings\\dataform.d.ts": "4e9ec450d20ae85cedd03a2122f492b136e4e22f",
+		"C:\\workspace\\nativescript\\lazy\\node_modules\\nativescript-ui-dataform\\platforms\\android\\TNSDataForm-release.aar": "272eaa1bb434b93580a378a7a76ad10e6bf0c915"
+	},
+	"nativescript-ui-autocomplete": {
+		"C:\\workspace\\nativescript\\lazy\\node_modules\\nativescript-ui-autocomplete\\platforms\\android\\include.gradle": "8d431285d22b3072ea506656c2c2d6d7b6d08f7a",
+		"C:\\workspace\\nativescript\\lazy\\node_modules\\nativescript-ui-autocomplete\\platforms\\android\\TNSAutoComplete-release.aar": "8c106cac22e095f627da78660b8757c5434994d1",
+		"C:\\workspace\\nativescript\\lazy\\node_modules\\nativescript-ui-autocomplete\\platforms\\android\\typings\\autocomplete.d.ts": "78e6c25c589e02b8cfba7b3be8d7ad479b957eb6"
+	},
+	"nativescript-ui-core": {
+		"C:\\workspace\\nativescript\\lazy\\node_modules\\nativescript-ui-core\\platforms\\android\\TNSCore-release.aar": "cce16a86c2a6f56ca7243ed8db86b004ecb0016e",
+		"C:\\workspace\\nativescript\\lazy\\node_modules\\nativescript-ui-core\\platforms\\android\\typings\\core.d.ts": "5c032652edfa1719ef8c8190fc0f66d3b1c313c2"
+	},
+	"tns-core-modules-widgets": {
+		"C:\\workspace\\nativescript\\lazy\\node_modules\\tns-core-modules-widgets\\platforms\\android\\widgets-release.aar": "efe67a699a507e38b3daf4e9903fc0cdc9435a86"
+	}
+}

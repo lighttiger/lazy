@@ -1,0 +1,1 @@
+C:\workspace\nativescript\lazy\platforms\android\app/src/main/assets/metadata

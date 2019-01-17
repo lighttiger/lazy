@@ -1,0 +1,225 @@
+-- Merging decision tree log ---
+manifest
+ADDED from C:\workspace\nativescript\lazy\platforms\android\app\src\main\AndroidManifest.xml:2:1-43:12
+INJECTED from C:\workspace\nativescript\lazy\platforms\android\app\src\main\AndroidManifest.xml:2:1-43:12
+INJECTED from C:\workspace\nativescript\lazy\platforms\android\app\src\main\AndroidManifest.xml:2:1-43:12
+INJECTED from C:\workspace\nativescript\lazy\platforms\android\app\src\main\AndroidManifest.xml:2:1-43:12
+MERGED from [com.android.support:design:28.0.0] C:\Users\Light Tiger\.gradle\caches\transforms-1\files-1.1\design-28.0.0.aar\8e59f067c24ece7f0fc02b2bbb0a4fac\AndroidManifest.xml:17:1-24:12
+MERGED from [com.android.support:appcompat-v7:28.0.0] C:\Users\Light Tiger\.gradle\caches\transforms-1\files-1.1\appcompat-v7-28.0.0.aar\86491cfaee0291bf5db8907d84a6f7bf\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:recyclerview-v7:28.0.0] C:\Users\Light Tiger\.gradle\caches\transforms-1\files-1.1\recyclerview-v7-28.0.0.aar\3b0365e304d6626048e61952875ed4f2\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:multidex:1.0.2] C:\Users\Light Tiger\.gradle\caches\transforms-1\files-1.1\multidex-1.0.2.aar\56a97e7a5bd6553fa0c98d4c96b87146\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-v4:28.0.0] C:\Users\Light Tiger\.gradle\caches\transforms-1\files-1.1\support-v4-28.0.0.aar\e7712006a114d956656136ae98dc298e\AndroidManifest.xml:17:1-22:12
+MERGED from [:nativescript-optimized-with-inspector:] C:\Users\Light Tiger\.gradle\caches\transforms-1\files-1.1\nativescript-optimized-with-inspector.aar\bf8010fe27a342996cf8bd7dcd6651b2\AndroidManifest.xml:2:1-11:12
+MERGED from [:TNSDataForm-release:] C:\Users\Light Tiger\.gradle\caches\transforms-1\files-1.1\TNSDataForm-release.aar\09a11873b418de5e598f5c840cbf129e\AndroidManifest.xml:2:1-11:12
+MERGED from [:TNSAutoComplete-release:] C:\Users\Light Tiger\.gradle\caches\transforms-1\files-1.1\TNSAutoComplete-release.aar\8a60f92a2cc70933edbc8247eae39762\AndroidManifest.xml:2:1-11:12
+MERGED from [:TNSCore-release:] C:\Users\Light Tiger\.gradle\caches\transforms-1\files-1.1\TNSCore-release.aar\17a0b9cb91eee8492eaac5df113180cb\AndroidManifest.xml:2:1-11:12
+MERGED from [:widgets-release:] C:\Users\Light Tiger\.gradle\caches\transforms-1\files-1.1\widgets-release.aar\d09dd89a72d40a440d4bc8b98aed9b04\AndroidManifest.xml:2:1-14:12
+MERGED from [com.android.support:support-fragment:28.0.0] C:\Users\Light Tiger\.gradle\caches\transforms-1\files-1.1\support-fragment-28.0.0.aar\8aaa6eecec55654327fcdd05064007ab\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:animated-vector-drawable:28.0.0] C:\Users\Light Tiger\.gradle\caches\transforms-1\files-1.1\animated-vector-drawable-28.0.0.aar\fc309ce082fe37b40d00c926d2965180\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-core-ui:28.0.0] C:\Users\Light Tiger\.gradle\caches\transforms-1\files-1.1\support-core-ui-28.0.0.aar\3ac0fb24914db1ef8767f9f12991a5b9\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-core-utils:28.0.0] C:\Users\Light Tiger\.gradle\caches\transforms-1\files-1.1\support-core-utils-28.0.0.aar\9d7808b2748a28a04af2e181f460e859\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-vector-drawable:28.0.0] C:\Users\Light Tiger\.gradle\caches\transforms-1\files-1.1\support-vector-drawable-28.0.0.aar\34d204d4d640b2d1077d462f038cce0f\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-media-compat:28.0.0] C:\Users\Light Tiger\.gradle\caches\transforms-1\files-1.1\support-media-compat-28.0.0.aar\d94a48c9e65552448659628225b34c48\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:transition:28.0.0] C:\Users\Light Tiger\.gradle\caches\transforms-1\files-1.1\transition-28.0.0.aar\c01e8a34c3707c204c31e9af2d8a633b\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:loader:28.0.0] C:\Users\Light Tiger\.gradle\caches\transforms-1\files-1.1\loader-28.0.0.aar\cf0e8aa8a058d2a9f9709a94e8cd4fff\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:viewpager:28.0.0] C:\Users\Light Tiger\.gradle\caches\transforms-1\files-1.1\viewpager-28.0.0.aar\5c21752dce8a0d0bcbcb3c68d2ee37e2\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:coordinatorlayout:28.0.0] C:\Users\Light Tiger\.gradle\caches\transforms-1\files-1.1\coordinatorlayout-28.0.0.aar\25f1b2421788cc0c6898d255ed2f87cc\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:drawerlayout:28.0.0] C:\Users\Light Tiger\.gradle\caches\transforms-1\files-1.1\drawerlayout-28.0.0.aar\4456e52cec9a76fc28f50d75dc01c115\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:slidingpanelayout:28.0.0] C:\Users\Light Tiger\.gradle\caches\transforms-1\files-1.1\slidingpanelayout-28.0.0.aar\e8ef58c05ff83bb1a82bfc3ab41d9789\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:customview:28.0.0] C:\Users\Light Tiger\.gradle\caches\transforms-1\files-1.1\customview-28.0.0.aar\1a05a895435f647022cf02392db96966\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:swiperefreshlayout:28.0.0] C:\Users\Light Tiger\.gradle\caches\transforms-1\files-1.1\swiperefreshlayout-28.0.0.aar\77910bdb2d79b91e8c8631f2309ef7a3\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:asynclayoutinflater:28.0.0] C:\Users\Light Tiger\.gradle\caches\transforms-1\files-1.1\asynclayoutinflater-28.0.0.aar\bccd1e34a5f9d8c7346a87383e5b87a2\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-compat:28.0.0] C:\Users\Light Tiger\.gradle\caches\transforms-1\files-1.1\support-compat-28.0.0.aar\c6446553122706505a29f8e6519b7844\AndroidManifest.xml:17:1-24:12
+MERGED from [com.android.support:versionedparcelable:28.0.0] C:\Users\Light Tiger\.gradle\caches\transforms-1\files-1.1\versionedparcelable-28.0.0.aar\25a98db1f691354c23cbc7c4853190b2\AndroidManifest.xml:17:1-25:12
+MERGED from [com.android.support:cursoradapter:28.0.0] C:\Users\Light Tiger\.gradle\caches\transforms-1\files-1.1\cursoradapter-28.0.0.aar\d4e09bc12309b4397ef3e862a18a4382\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:cardview-v7:28.0.0] C:\Users\Light Tiger\.gradle\caches\transforms-1\files-1.1\cardview-v7-28.0.0.aar\82d8be9bc8d926b4014dd4b15e4dd072\AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.lifecycle:runtime:1.1.1] C:\Users\Light Tiger\.gradle\caches\transforms-1\files-1.1\runtime-1.1.1.aar\778303fc8d1787333c5c97331f8c12e5\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:documentfile:28.0.0] C:\Users\Light Tiger\.gradle\caches\transforms-1\files-1.1\documentfile-28.0.0.aar\328de130d66fc01f3d695778eed88c09\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:localbroadcastmanager:28.0.0] C:\Users\Light Tiger\.gradle\caches\transforms-1\files-1.1\localbroadcastmanager-28.0.0.aar\adfef6df679dd6ce7a226e30c102d235\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:print:28.0.0] C:\Users\Light Tiger\.gradle\caches\transforms-1\files-1.1\print-28.0.0.aar\1149e746625894e1b31e29172ca2bd9d\AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.lifecycle:viewmodel:1.1.1] C:\Users\Light Tiger\.gradle\caches\transforms-1\files-1.1\viewmodel-1.1.1.aar\1183adffce6556ccbae6fb6e688f9603\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:interpolator:28.0.0] C:\Users\Light Tiger\.gradle\caches\transforms-1\files-1.1\interpolator-28.0.0.aar\5ae0bb0b7b8dbb011738a978a80a70a4\AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.lifecycle:livedata:1.1.1] C:\Users\Light Tiger\.gradle\caches\transforms-1\files-1.1\livedata-1.1.1.aar\ac4af1901f809dd098f6769352f8b26c\AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.lifecycle:livedata-core:1.1.1] C:\Users\Light Tiger\.gradle\caches\transforms-1\files-1.1\livedata-core-1.1.1.aar\9a3e0925512614e2489fcd501b83a405\AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.core:runtime:1.1.1] C:\Users\Light Tiger\.gradle\caches\transforms-1\files-1.1\runtime-1.1.1.aar\f022afed639e92050cc7a136805274ba\AndroidManifest.xml:17:1-22:12
+INJECTED from C:\workspace\nativescript\lazy\platforms\android\app\src\main\AndroidManifest.xml:2:1-43:12
+INJECTED from C:\workspace\nativescript\lazy\platforms\android\app\src\main\AndroidManifest.xml:2:1-43:12
+INJECTED from C:\workspace\nativescript\lazy\platforms\android\app\src\main\AndroidManifest.xml:2:1-43:12
+	package
+		ADDED from C:\workspace\nativescript\lazy\platforms\android\app\src\main\AndroidManifest.xml:3:2-33
+		INJECTED from C:\workspace\nativescript\lazy\platforms\android\app\src\main\AndroidManifest.xml
+		INJECTED from C:\workspace\nativescript\lazy\platforms\android\app\src\main\AndroidManifest.xml
+	android:versionName
+		ADDED from C:\workspace\nativescript\lazy\platforms\android\app\src\main\AndroidManifest.xml:5:2-27
+		INJECTED from C:\workspace\nativescript\lazy\platforms\android\app\src\main\AndroidManifest.xml
+		INJECTED from C:\workspace\nativescript\lazy\platforms\android\app\src\main\AndroidManifest.xml
+	xmlns:android
+		ADDED from C:\workspace\nativescript\lazy\platforms\android\app\src\main\AndroidManifest.xml:2:11-69
+	android:versionCode
+		ADDED from C:\workspace\nativescript\lazy\platforms\android\app\src\main\AndroidManifest.xml:4:2-25
+		INJECTED from C:\workspace\nativescript\lazy\platforms\android\app\src\main\AndroidManifest.xml
+		INJECTED from C:\workspace\nativescript\lazy\platforms\android\app\src\main\AndroidManifest.xml
+supports-screens
+ADDED from C:\workspace\nativescript\lazy\platforms\android\app\src\main\AndroidManifest.xml:7:2-11:33
+	android:largeScreens
+		ADDED from C:\workspace\nativescript\lazy\platforms\android\app\src\main\AndroidManifest.xml:10:3-30
+	android:smallScreens
+		ADDED from C:\workspace\nativescript\lazy\platforms\android\app\src\main\AndroidManifest.xml:8:3-30
+	android:normalScreens
+		ADDED from C:\workspace\nativescript\lazy\platforms\android\app\src\main\AndroidManifest.xml:9:3-31
+	android:xlargeScreens
+		ADDED from C:\workspace\nativescript\lazy\platforms\android\app\src\main\AndroidManifest.xml:11:3-31
+uses-sdk
+ADDED from C:\workspace\nativescript\lazy\platforms\android\app\src\main\AndroidManifest.xml:13:2-15:34
+INJECTED from C:\workspace\nativescript\lazy\platforms\android\app\src\main\AndroidManifest.xml:13:2-15:34
+INJECTED from C:\workspace\nativescript\lazy\platforms\android\app\src\main\AndroidManifest.xml:13:2-15:34
+MERGED from [com.android.support:design:28.0.0] C:\Users\Light Tiger\.gradle\caches\transforms-1\files-1.1\design-28.0.0.aar\8e59f067c24ece7f0fc02b2bbb0a4fac\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:design:28.0.0] C:\Users\Light Tiger\.gradle\caches\transforms-1\files-1.1\design-28.0.0.aar\8e59f067c24ece7f0fc02b2bbb0a4fac\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:appcompat-v7:28.0.0] C:\Users\Light Tiger\.gradle\caches\transforms-1\files-1.1\appcompat-v7-28.0.0.aar\86491cfaee0291bf5db8907d84a6f7bf\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:appcompat-v7:28.0.0] C:\Users\Light Tiger\.gradle\caches\transforms-1\files-1.1\appcompat-v7-28.0.0.aar\86491cfaee0291bf5db8907d84a6f7bf\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:recyclerview-v7:28.0.0] C:\Users\Light Tiger\.gradle\caches\transforms-1\files-1.1\recyclerview-v7-28.0.0.aar\3b0365e304d6626048e61952875ed4f2\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:recyclerview-v7:28.0.0] C:\Users\Light Tiger\.gradle\caches\transforms-1\files-1.1\recyclerview-v7-28.0.0.aar\3b0365e304d6626048e61952875ed4f2\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:multidex:1.0.2] C:\Users\Light Tiger\.gradle\caches\transforms-1\files-1.1\multidex-1.0.2.aar\56a97e7a5bd6553fa0c98d4c96b87146\AndroidManifest.xml:20:5-43
+MERGED from [com.android.support:multidex:1.0.2] C:\Users\Light Tiger\.gradle\caches\transforms-1\files-1.1\multidex-1.0.2.aar\56a97e7a5bd6553fa0c98d4c96b87146\AndroidManifest.xml:20:5-43
+MERGED from [com.android.support:support-v4:28.0.0] C:\Users\Light Tiger\.gradle\caches\transforms-1\files-1.1\support-v4-28.0.0.aar\e7712006a114d956656136ae98dc298e\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-v4:28.0.0] C:\Users\Light Tiger\.gradle\caches\transforms-1\files-1.1\support-v4-28.0.0.aar\e7712006a114d956656136ae98dc298e\AndroidManifest.xml:20:5-44
+MERGED from [:nativescript-optimized-with-inspector:] C:\Users\Light Tiger\.gradle\caches\transforms-1\files-1.1\nativescript-optimized-with-inspector.aar\bf8010fe27a342996cf8bd7dcd6651b2\AndroidManifest.xml:7:5-9:41
+MERGED from [:nativescript-optimized-with-inspector:] C:\Users\Light Tiger\.gradle\caches\transforms-1\files-1.1\nativescript-optimized-with-inspector.aar\bf8010fe27a342996cf8bd7dcd6651b2\AndroidManifest.xml:7:5-9:41
+MERGED from [:TNSDataForm-release:] C:\Users\Light Tiger\.gradle\caches\transforms-1\files-1.1\TNSDataForm-release.aar\09a11873b418de5e598f5c840cbf129e\AndroidManifest.xml:7:5-9:41
+MERGED from [:TNSDataForm-release:] C:\Users\Light Tiger\.gradle\caches\transforms-1\files-1.1\TNSDataForm-release.aar\09a11873b418de5e598f5c840cbf129e\AndroidManifest.xml:7:5-9:41
+MERGED from [:TNSAutoComplete-release:] C:\Users\Light Tiger\.gradle\caches\transforms-1\files-1.1\TNSAutoComplete-release.aar\8a60f92a2cc70933edbc8247eae39762\AndroidManifest.xml:7:5-9:41
+MERGED from [:TNSAutoComplete-release:] C:\Users\Light Tiger\.gradle\caches\transforms-1\files-1.1\TNSAutoComplete-release.aar\8a60f92a2cc70933edbc8247eae39762\AndroidManifest.xml:7:5-9:41
+MERGED from [:TNSCore-release:] C:\Users\Light Tiger\.gradle\caches\transforms-1\files-1.1\TNSCore-release.aar\17a0b9cb91eee8492eaac5df113180cb\AndroidManifest.xml:7:5-9:41
+MERGED from [:TNSCore-release:] C:\Users\Light Tiger\.gradle\caches\transforms-1\files-1.1\TNSCore-release.aar\17a0b9cb91eee8492eaac5df113180cb\AndroidManifest.xml:7:5-9:41
+MERGED from [:widgets-release:] C:\Users\Light Tiger\.gradle\caches\transforms-1\files-1.1\widgets-release.aar\d09dd89a72d40a440d4bc8b98aed9b04\AndroidManifest.xml:7:5-9:41
+MERGED from [:widgets-release:] C:\Users\Light Tiger\.gradle\caches\transforms-1\files-1.1\widgets-release.aar\d09dd89a72d40a440d4bc8b98aed9b04\AndroidManifest.xml:7:5-9:41
+MERGED from [com.android.support:support-fragment:28.0.0] C:\Users\Light Tiger\.gradle\caches\transforms-1\files-1.1\support-fragment-28.0.0.aar\8aaa6eecec55654327fcdd05064007ab\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-fragment:28.0.0] C:\Users\Light Tiger\.gradle\caches\transforms-1\files-1.1\support-fragment-28.0.0.aar\8aaa6eecec55654327fcdd05064007ab\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:animated-vector-drawable:28.0.0] C:\Users\Light Tiger\.gradle\caches\transforms-1\files-1.1\animated-vector-drawable-28.0.0.aar\fc309ce082fe37b40d00c926d2965180\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:animated-vector-drawable:28.0.0] C:\Users\Light Tiger\.gradle\caches\transforms-1\files-1.1\animated-vector-drawable-28.0.0.aar\fc309ce082fe37b40d00c926d2965180\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-ui:28.0.0] C:\Users\Light Tiger\.gradle\caches\transforms-1\files-1.1\support-core-ui-28.0.0.aar\3ac0fb24914db1ef8767f9f12991a5b9\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-ui:28.0.0] C:\Users\Light Tiger\.gradle\caches\transforms-1\files-1.1\support-core-ui-28.0.0.aar\3ac0fb24914db1ef8767f9f12991a5b9\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-utils:28.0.0] C:\Users\Light Tiger\.gradle\caches\transforms-1\files-1.1\support-core-utils-28.0.0.aar\9d7808b2748a28a04af2e181f460e859\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-utils:28.0.0] C:\Users\Light Tiger\.gradle\caches\transforms-1\files-1.1\support-core-utils-28.0.0.aar\9d7808b2748a28a04af2e181f460e859\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-vector-drawable:28.0.0] C:\Users\Light Tiger\.gradle\caches\transforms-1\files-1.1\support-vector-drawable-28.0.0.aar\34d204d4d640b2d1077d462f038cce0f\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-vector-drawable:28.0.0] C:\Users\Light Tiger\.gradle\caches\transforms-1\files-1.1\support-vector-drawable-28.0.0.aar\34d204d4d640b2d1077d462f038cce0f\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-media-compat:28.0.0] C:\Users\Light Tiger\.gradle\caches\transforms-1\files-1.1\support-media-compat-28.0.0.aar\d94a48c9e65552448659628225b34c48\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-media-compat:28.0.0] C:\Users\Light Tiger\.gradle\caches\transforms-1\files-1.1\support-media-compat-28.0.0.aar\d94a48c9e65552448659628225b34c48\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:transition:28.0.0] C:\Users\Light Tiger\.gradle\caches\transforms-1\files-1.1\transition-28.0.0.aar\c01e8a34c3707c204c31e9af2d8a633b\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:transition:28.0.0] C:\Users\Light Tiger\.gradle\caches\transforms-1\files-1.1\transition-28.0.0.aar\c01e8a34c3707c204c31e9af2d8a633b\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:loader:28.0.0] C:\Users\Light Tiger\.gradle\caches\transforms-1\files-1.1\loader-28.0.0.aar\cf0e8aa8a058d2a9f9709a94e8cd4fff\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:loader:28.0.0] C:\Users\Light Tiger\.gradle\caches\transforms-1\files-1.1\loader-28.0.0.aar\cf0e8aa8a058d2a9f9709a94e8cd4fff\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:viewpager:28.0.0] C:\Users\Light Tiger\.gradle\caches\transforms-1\files-1.1\viewpager-28.0.0.aar\5c21752dce8a0d0bcbcb3c68d2ee37e2\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:viewpager:28.0.0] C:\Users\Light Tiger\.gradle\caches\transforms-1\files-1.1\viewpager-28.0.0.aar\5c21752dce8a0d0bcbcb3c68d2ee37e2\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:coordinatorlayout:28.0.0] C:\Users\Light Tiger\.gradle\caches\transforms-1\files-1.1\coordinatorlayout-28.0.0.aar\25f1b2421788cc0c6898d255ed2f87cc\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:coordinatorlayout:28.0.0] C:\Users\Light Tiger\.gradle\caches\transforms-1\files-1.1\coordinatorlayout-28.0.0.aar\25f1b2421788cc0c6898d255ed2f87cc\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:drawerlayout:28.0.0] C:\Users\Light Tiger\.gradle\caches\transforms-1\files-1.1\drawerlayout-28.0.0.aar\4456e52cec9a76fc28f50d75dc01c115\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:drawerlayout:28.0.0] C:\Users\Light Tiger\.gradle\caches\transforms-1\files-1.1\drawerlayout-28.0.0.aar\4456e52cec9a76fc28f50d75dc01c115\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:slidingpanelayout:28.0.0] C:\Users\Light Tiger\.gradle\caches\transforms-1\files-1.1\slidingpanelayout-28.0.0.aar\e8ef58c05ff83bb1a82bfc3ab41d9789\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:slidingpanelayout:28.0.0] C:\Users\Light Tiger\.gradle\caches\transforms-1\files-1.1\slidingpanelayout-28.0.0.aar\e8ef58c05ff83bb1a82bfc3ab41d9789\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:customview:28.0.0] C:\Users\Light Tiger\.gradle\caches\transforms-1\files-1.1\customview-28.0.0.aar\1a05a895435f647022cf02392db96966\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:customview:28.0.0] C:\Users\Light Tiger\.gradle\caches\transforms-1\files-1.1\customview-28.0.0.aar\1a05a895435f647022cf02392db96966\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:swiperefreshlayout:28.0.0] C:\Users\Light Tiger\.gradle\caches\transforms-1\files-1.1\swiperefreshlayout-28.0.0.aar\77910bdb2d79b91e8c8631f2309ef7a3\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:swiperefreshlayout:28.0.0] C:\Users\Light Tiger\.gradle\caches\transforms-1\files-1.1\swiperefreshlayout-28.0.0.aar\77910bdb2d79b91e8c8631f2309ef7a3\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:asynclayoutinflater:28.0.0] C:\Users\Light Tiger\.gradle\caches\transforms-1\files-1.1\asynclayoutinflater-28.0.0.aar\bccd1e34a5f9d8c7346a87383e5b87a2\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:asynclayoutinflater:28.0.0] C:\Users\Light Tiger\.gradle\caches\transforms-1\files-1.1\asynclayoutinflater-28.0.0.aar\bccd1e34a5f9d8c7346a87383e5b87a2\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-compat:28.0.0] C:\Users\Light Tiger\.gradle\caches\transforms-1\files-1.1\support-compat-28.0.0.aar\c6446553122706505a29f8e6519b7844\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-compat:28.0.0] C:\Users\Light Tiger\.gradle\caches\transforms-1\files-1.1\support-compat-28.0.0.aar\c6446553122706505a29f8e6519b7844\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:versionedparcelable:28.0.0] C:\Users\Light Tiger\.gradle\caches\transforms-1\files-1.1\versionedparcelable-28.0.0.aar\25a98db1f691354c23cbc7c4853190b2\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:versionedparcelable:28.0.0] C:\Users\Light Tiger\.gradle\caches\transforms-1\files-1.1\versionedparcelable-28.0.0.aar\25a98db1f691354c23cbc7c4853190b2\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:cursoradapter:28.0.0] C:\Users\Light Tiger\.gradle\caches\transforms-1\files-1.1\cursoradapter-28.0.0.aar\d4e09bc12309b4397ef3e862a18a4382\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:cursoradapter:28.0.0] C:\Users\Light Tiger\.gradle\caches\transforms-1\files-1.1\cursoradapter-28.0.0.aar\d4e09bc12309b4397ef3e862a18a4382\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:cardview-v7:28.0.0] C:\Users\Light Tiger\.gradle\caches\transforms-1\files-1.1\cardview-v7-28.0.0.aar\82d8be9bc8d926b4014dd4b15e4dd072\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:cardview-v7:28.0.0] C:\Users\Light Tiger\.gradle\caches\transforms-1\files-1.1\cardview-v7-28.0.0.aar\82d8be9bc8d926b4014dd4b15e4dd072\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:runtime:1.1.1] C:\Users\Light Tiger\.gradle\caches\transforms-1\files-1.1\runtime-1.1.1.aar\778303fc8d1787333c5c97331f8c12e5\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:runtime:1.1.1] C:\Users\Light Tiger\.gradle\caches\transforms-1\files-1.1\runtime-1.1.1.aar\778303fc8d1787333c5c97331f8c12e5\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:documentfile:28.0.0] C:\Users\Light Tiger\.gradle\caches\transforms-1\files-1.1\documentfile-28.0.0.aar\328de130d66fc01f3d695778eed88c09\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:documentfile:28.0.0] C:\Users\Light Tiger\.gradle\caches\transforms-1\files-1.1\documentfile-28.0.0.aar\328de130d66fc01f3d695778eed88c09\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:localbroadcastmanager:28.0.0] C:\Users\Light Tiger\.gradle\caches\transforms-1\files-1.1\localbroadcastmanager-28.0.0.aar\adfef6df679dd6ce7a226e30c102d235\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:localbroadcastmanager:28.0.0] C:\Users\Light Tiger\.gradle\caches\transforms-1\files-1.1\localbroadcastmanager-28.0.0.aar\adfef6df679dd6ce7a226e30c102d235\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:print:28.0.0] C:\Users\Light Tiger\.gradle\caches\transforms-1\files-1.1\print-28.0.0.aar\1149e746625894e1b31e29172ca2bd9d\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:print:28.0.0] C:\Users\Light Tiger\.gradle\caches\transforms-1\files-1.1\print-28.0.0.aar\1149e746625894e1b31e29172ca2bd9d\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:viewmodel:1.1.1] C:\Users\Light Tiger\.gradle\caches\transforms-1\files-1.1\viewmodel-1.1.1.aar\1183adffce6556ccbae6fb6e688f9603\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:viewmodel:1.1.1] C:\Users\Light Tiger\.gradle\caches\transforms-1\files-1.1\viewmodel-1.1.1.aar\1183adffce6556ccbae6fb6e688f9603\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:interpolator:28.0.0] C:\Users\Light Tiger\.gradle\caches\transforms-1\files-1.1\interpolator-28.0.0.aar\5ae0bb0b7b8dbb011738a978a80a70a4\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:interpolator:28.0.0] C:\Users\Light Tiger\.gradle\caches\transforms-1\files-1.1\interpolator-28.0.0.aar\5ae0bb0b7b8dbb011738a978a80a70a4\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:livedata:1.1.1] C:\Users\Light Tiger\.gradle\caches\transforms-1\files-1.1\livedata-1.1.1.aar\ac4af1901f809dd098f6769352f8b26c\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:livedata:1.1.1] C:\Users\Light Tiger\.gradle\caches\transforms-1\files-1.1\livedata-1.1.1.aar\ac4af1901f809dd098f6769352f8b26c\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:livedata-core:1.1.1] C:\Users\Light Tiger\.gradle\caches\transforms-1\files-1.1\livedata-core-1.1.1.aar\9a3e0925512614e2489fcd501b83a405\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:livedata-core:1.1.1] C:\Users\Light Tiger\.gradle\caches\transforms-1\files-1.1\livedata-core-1.1.1.aar\9a3e0925512614e2489fcd501b83a405\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.core:runtime:1.1.1] C:\Users\Light Tiger\.gradle\caches\transforms-1\files-1.1\runtime-1.1.1.aar\f022afed639e92050cc7a136805274ba\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.core:runtime:1.1.1] C:\Users\Light Tiger\.gradle\caches\transforms-1\files-1.1\runtime-1.1.1.aar\f022afed639e92050cc7a136805274ba\AndroidManifest.xml:20:5-44
+INJECTED from C:\workspace\nativescript\lazy\platforms\android\app\src\main\AndroidManifest.xml:13:2-15:34
+INJECTED from C:\workspace\nativescript\lazy\platforms\android\app\src\main\AndroidManifest.xml:13:2-15:34
+	android:targetSdkVersion
+		ADDED from C:\workspace\nativescript\lazy\platforms\android\app\src\main\AndroidManifest.xml:15:3-32
+		INJECTED from C:\workspace\nativescript\lazy\platforms\android\app\src\main\AndroidManifest.xml
+		INJECTED from C:\workspace\nativescript\lazy\platforms\android\app\src\main\AndroidManifest.xml
+	android:minSdkVersion
+		ADDED from C:\workspace\nativescript\lazy\platforms\android\app\src\main\AndroidManifest.xml:14:3-29
+		INJECTED from C:\workspace\nativescript\lazy\platforms\android\app\src\main\AndroidManifest.xml
+		INJECTED from C:\workspace\nativescript\lazy\platforms\android\app\src\main\AndroidManifest.xml
+uses-permission#android.permission.READ_EXTERNAL_STORAGE
+ADDED from C:\workspace\nativescript\lazy\platforms\android\app\src\main\AndroidManifest.xml:17:2-76
+	android:name
+		ADDED from C:\workspace\nativescript\lazy\platforms\android\app\src\main\AndroidManifest.xml:17:19-74
+uses-permission#android.permission.WRITE_EXTERNAL_STORAGE
+ADDED from C:\workspace\nativescript\lazy\platforms\android\app\src\main\AndroidManifest.xml:18:2-77
+	android:name
+		ADDED from C:\workspace\nativescript\lazy\platforms\android\app\src\main\AndroidManifest.xml:18:19-75
+uses-permission#android.permission.INTERNET
+ADDED from C:\workspace\nativescript\lazy\platforms\android\app\src\main\AndroidManifest.xml:19:2-63
+	android:name
+		ADDED from C:\workspace\nativescript\lazy\platforms\android\app\src\main\AndroidManifest.xml:19:19-61
+application
+ADDED from C:\workspace\nativescript\lazy\platforms\android\app\src\main\AndroidManifest.xml:21:2-42:16
+MERGED from [com.android.support:design:28.0.0] C:\Users\Light Tiger\.gradle\caches\transforms-1\files-1.1\design-28.0.0.aar\8e59f067c24ece7f0fc02b2bbb0a4fac\AndroidManifest.xml:22:5-20
+MERGED from [com.android.support:design:28.0.0] C:\Users\Light Tiger\.gradle\caches\transforms-1\files-1.1\design-28.0.0.aar\8e59f067c24ece7f0fc02b2bbb0a4fac\AndroidManifest.xml:22:5-20
+MERGED from [:widgets-release:] C:\Users\Light Tiger\.gradle\caches\transforms-1\files-1.1\widgets-release.aar\d09dd89a72d40a440d4bc8b98aed9b04\AndroidManifest.xml:11:5-12:19
+MERGED from [:widgets-release:] C:\Users\Light Tiger\.gradle\caches\transforms-1\files-1.1\widgets-release.aar\d09dd89a72d40a440d4bc8b98aed9b04\AndroidManifest.xml:11:5-12:19
+MERGED from [com.android.support:support-compat:28.0.0] C:\Users\Light Tiger\.gradle\caches\transforms-1\files-1.1\support-compat-28.0.0.aar\c6446553122706505a29f8e6519b7844\AndroidManifest.xml:22:5-94
+MERGED from [com.android.support:support-compat:28.0.0] C:\Users\Light Tiger\.gradle\caches\transforms-1\files-1.1\support-compat-28.0.0.aar\c6446553122706505a29f8e6519b7844\AndroidManifest.xml:22:5-94
+MERGED from [com.android.support:versionedparcelable:28.0.0] C:\Users\Light Tiger\.gradle\caches\transforms-1\files-1.1\versionedparcelable-28.0.0.aar\25a98db1f691354c23cbc7c4853190b2\AndroidManifest.xml:22:5-23:19
+MERGED from [com.android.support:versionedparcelable:28.0.0] C:\Users\Light Tiger\.gradle\caches\transforms-1\files-1.1\versionedparcelable-28.0.0.aar\25a98db1f691354c23cbc7c4853190b2\AndroidManifest.xml:22:5-23:19
+	android:appComponentFactory
+		ADDED from [com.android.support:support-compat:28.0.0] C:\Users\Light Tiger\.gradle\caches\transforms-1\files-1.1\support-compat-28.0.0.aar\c6446553122706505a29f8e6519b7844\AndroidManifest.xml:22:18-91
+	android:label
+		ADDED from C:\workspace\nativescript\lazy\platforms\android\app\src\main\AndroidManifest.xml:25:3-35
+	android:icon
+		ADDED from C:\workspace\nativescript\lazy\platforms\android\app\src\main\AndroidManifest.xml:24:3-32
+	android:allowBackup
+		ADDED from C:\workspace\nativescript\lazy\platforms\android\app\src\main\AndroidManifest.xml:23:3-29
+	android:theme
+		ADDED from C:\workspace\nativescript\lazy\platforms\android\app\src\main\AndroidManifest.xml:26:3-34
+	android:name
+		ADDED from C:\workspace\nativescript\lazy\platforms\android\app\src\main\AndroidManifest.xml:22:3-49
+activity#com.tns.NativeScriptActivity
+ADDED from C:\workspace\nativescript\lazy\platforms\android\app\src\main\AndroidManifest.xml:28:3-40:14
+	android:label
+		ADDED from C:\workspace\nativescript\lazy\platforms\android\app\src\main\AndroidManifest.xml:30:4-49
+	android:configChanges
+		ADDED from C:\workspace\nativescript\lazy\platforms\android\app\src\main\AndroidManifest.xml:31:4-65
+	android:theme
+		ADDED from C:\workspace\nativescript\lazy\platforms\android\app\src\main\AndroidManifest.xml:32:4-44
+	android:name
+		ADDED from C:\workspace\nativescript\lazy\platforms\android\app\src\main\AndroidManifest.xml:29:4-47
+meta-data#SET_THEME_ON_LAUNCH
+ADDED from C:\workspace\nativescript\lazy\platforms\android\app\src\main\AndroidManifest.xml:34:4-87
+	android:resource
+		ADDED from C:\workspace\nativescript\lazy\platforms\android\app\src\main\AndroidManifest.xml:34:50-84
+	android:name
+		ADDED from C:\workspace\nativescript\lazy\platforms\android\app\src\main\AndroidManifest.xml:34:15-49
+intent-filter#action:name:android.intent.action.MAIN+category:name:android.intent.category.LAUNCHER
+ADDED from C:\workspace\nativescript\lazy\platforms\android\app\src\main\AndroidManifest.xml:36:4-39:20
+action#android.intent.action.MAIN
+ADDED from C:\workspace\nativescript\lazy\platforms\android\app\src\main\AndroidManifest.xml:37:5-57
+	android:name
+		ADDED from C:\workspace\nativescript\lazy\platforms\android\app\src\main\AndroidManifest.xml:37:13-54
+category#android.intent.category.LAUNCHER
+ADDED from C:\workspace\nativescript\lazy\platforms\android\app\src\main\AndroidManifest.xml:38:5-65
+	android:name
+		ADDED from C:\workspace\nativescript\lazy\platforms\android\app\src\main\AndroidManifest.xml:38:15-62
+activity#com.tns.ErrorReportActivity
+ADDED from C:\workspace\nativescript\lazy\platforms\android\app\src\main\AndroidManifest.xml:41:3-57
+	android:name
+		ADDED from C:\workspace\nativescript\lazy\platforms\android\app\src\main\AndroidManifest.xml:41:13-55
