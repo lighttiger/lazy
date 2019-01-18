@@ -5,4 +5,5 @@ This is this the problem that we are trying to solve!
 Thank you so much for your time and help
 
 Download the project and run the command 
+
 tns run ios
