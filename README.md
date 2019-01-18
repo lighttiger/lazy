@@ -4,6 +4,12 @@ The Lazy loaded module contains a data form that is woring properly on Android, 
 This is this the problem that we are trying to solve!
 Thank you so much for your time and help
 
+
+'feature' folder contains the lazy loaded module 
+
+'feature'/'test' folder contains a dataform 
+
+
 Download the project and run the command 
 
 tns run ios
