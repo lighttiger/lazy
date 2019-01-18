@@ -1,2 +1,2 @@
-download the project and run it on ios 
+Download the project and run the command 
 tns run ios
